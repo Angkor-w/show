@@ -219,17 +219,6 @@ content:`
   </div>
 </div>
 <p style="margin:0 0 24px 64px;"><a href="https://convertio.co/" target="_blank">convertio.co</a></p>
-
-<h2>拓展：搭建属于自己的静态书签页（就是你当前这套项目）</h2>
-<p>你现在的资料库本身就可以作为<strong>个人自建书签页</strong>，优势：完全静态托管在Github Pages，不受浏览器同步限制，换电脑打开网页即可看到全部链接。</p>
-<ul>
-<li>新增链接：直接在 <code>articles.js</code> 添加新文章或者在本篇友情链接追加模块。</li>
-<li>可以分类：新建多篇文章分别存放【开发工具】【娱乐网站】【学习资源】。</li>
-<li>全部数据保存在仓库，不怕浏览器书签丢失、同步异常。</li>
-</ul>
-<blockquote>
-<p>实践小建议：可以给自己的书签页面设置浏览器首页，打开浏览器直接访问你的Github Pages地址。</p>
-</blockquote>
 `
 }
 ];
